@@ -1,17 +1,18 @@
 {
-    "meta":{
-        "created": "2025-06-16T20:08+00:00",
-        "updated": "2025-09-07T19:08+00:00"
+  "meta": {
+    "created": "2025-06-16T20:08+00:00",
+    "updated": "2025-10-23T22:16:09.798Z"
+  },
+  "registry": {
+    "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
+      "name": "Woplli Issuer",
+      "location": "Location",
+      "url": "https://www.woplli.com"
     },
-    "registry": {
-        "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
-            "name": "Woplli Issuer",
-            "location": "Location",
-            "url": "https://www.woplli.com"
+    "did:key:z6MknNQD1WHLGGraFi6zcbGevuAgkVfdyCdtZnQTGWVVvR5Q": {
+      "name": "Woplli issuer",
+      "location": "Location",
+      "url": "https://www.woplli.com"
     }
   }
 }
-
-
-
-
