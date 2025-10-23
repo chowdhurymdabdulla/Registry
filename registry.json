@@ -8,11 +8,6 @@
       "name": "Woplli Issuer",
       "location": "Location",
       "url": "https://www.woplli.com"
-    },
-    "did:key:z6MknNQD1WHLGGraFi6zcbGevuAgkVfdyCdtZnQTGWVVvR5Q": {
-      "name": "Woplli issuer",
-      "location": "Location",
-      "url": "https://www.woplli.com"
     }
   }
 }
